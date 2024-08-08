@@ -27,7 +27,7 @@
 Em construção ⚒🛠.
 
 <p>
-    <img width="500" src="https://github.com/jenifferteixeira/Meu-portfolio/blob/main/assets/tela.JPG">
+    <img width="500" src="#">
 </p>
   
 
