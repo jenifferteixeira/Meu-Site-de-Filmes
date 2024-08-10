@@ -14,7 +14,7 @@ text-align: center;
 }
 `;
 
-export const Tittle = styled.h1`
+export const Title = styled.h1`
 font-weight: 700;
 font-size: 38px;
 color: #FFF;
@@ -40,7 +40,7 @@ align-items: center;
 justify-content: center;
 gap: 16px;
 
-font-weight: 60;
+font-weight: 600;
 font-size: 14px;
 color: #FFF;
 transition: 0.3s;

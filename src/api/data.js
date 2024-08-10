@@ -30,7 +30,7 @@ export const apiData = {
             imageSmall: "https://br.web.img3.acsta.net/r_1920_1080/pictures/22/11/30/19/53/5856320.jpg",
             imageBanner: "https://cdn2.tribunaonline.com.br/img/inline/190000/1200x720/The-Last-Of-Us-2-temporada-ganha-teaser-e-previsao0019361200202408051426-2.webp?fallback=https%3A%2F%2Fcdn2.tribunaonline.com.br%2Fimg%2Finline%2F190000%2FThe-Last-Of-Us-2-temporada-ganha-teaser-e-previsao0019361200202408051426.jpg%3Fxid%3D868103%26resize%3D1000%252C500%26t%3D1722878792&xid=868103",
             linkVideo: "zLvUwLtJOt4",
-            category: "tvshows",
+            category: "tvShows",
         },
         {
             title: "Venom",
@@ -256,6 +256,6 @@ export const apiData = {
 
     categories: [
         { name: "Filmes", type: "movies" },
-        { name: "Séries", type: "tvshows" },
+        { name: "Séries", type: "tvShows" },
     ],
 };

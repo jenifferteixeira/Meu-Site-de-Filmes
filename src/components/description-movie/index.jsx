@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 export const DescriptionMovie = ({title, description, handleOpenPlayVideo}) => {
     return (
         <C.Container>
-            <C.Tittle>{title}</C.Tittle>
+            <C.Title>{title}</C.Title>
             <C.Description>{description}</C.Description>
 
             <C.Button onClick={handleOpenPlayVideo}> ▶ Assistir</C.Button>

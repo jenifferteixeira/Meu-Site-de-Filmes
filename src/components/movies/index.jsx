@@ -2,7 +2,9 @@ import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
 
-import * as C from './style'
+import * as C from './style';
+
+
 export const Movies = (data, handleVideo) => {
 
     const responsive = {
@@ -21,8 +23,8 @@ export const Movies = (data, handleVideo) => {
     };
 
     const getMovies = (category) => {
-        return data?.movies?.filter((movies) => movies.category == category)
-    }
+        return data?.movies?.filter((movie) => movie?.category === category)
+    };
 
     return (
         <C.Container>
@@ -33,7 +35,7 @@ export const Movies = (data, handleVideo) => {
                     <Carousel responsive={responsive}>
                         {
                             getMovies(category?.type).map((data, index) => (
-                                <C.Movie src={data.imageSmall} key={index}
+                                <C.Movie src={data?.imageSmall} key={index}
                                     onClick={() => handleVideo(data)} />
                             ))
                         }
