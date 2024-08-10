@@ -7,6 +7,10 @@ align-items: center;
 justify-content: space-between;
 padding: 20px 60px;
 
+@media (max-width:560px){
+    padding: 20px;
+}
+
 nav{
     display: flex;
     align-items: center;
@@ -21,6 +25,10 @@ a{
     transition: 0.3s;
     text-decoration: none;
     position: relative;
+
+    @media (max-width:560px){
+     font-size: 16px;
+}
 }
 
 a:hover{
@@ -40,5 +48,13 @@ a::after{
 
 a:hover ::after{
     width: 100%;
+}
+
+img{
+    width: 200px;
+
+    @media (max-width:560px){
+    width: 100px;
+}
 }
 `;

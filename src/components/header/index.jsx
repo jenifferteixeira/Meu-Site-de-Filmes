@@ -1,5 +1,5 @@
 import { Container } from "./style";
-import logoImage from '../../assets/img/logo.png';
+import logoImage from '../../assets/logo.png';
 
 
 export const Header = () => {
@@ -8,9 +8,8 @@ export const Header = () => {
             <img src={logoImage} />
 
             <nav>
-                <a href="#"> Filmes</a>
-                <a href="#"> TV Shows</a>
-                <a href="#"> Tudo</a>
+                <a href="#movies"> Filmes</a>
+                <a href="#tvshows"> Séries</a>
             </nav>
         </Container>
     );

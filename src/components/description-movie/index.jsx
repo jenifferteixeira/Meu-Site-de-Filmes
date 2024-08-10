@@ -1,13 +1,21 @@
 import * as C from './style'
+import PropTypes from 'prop-types';
 
-export const DescriptionMovie = () => {
+
+export const DescriptionMovie = ({title, description, handleOpenPlayVideo}) => {
     return (
         <C.Container>
-            <C.Tittle>Capitão América: Admirável Mundo Novo</C.Tittle>
-            <C.Description>Capitão América: Admirável Mundo Novo é o próximo filme do famoso herói da Marvel. Desta vez, o filme dá continuidade à minissérie de televisão Falcão e o Soldado Invernal, onde o escudo está nas mãos de Sam Wilson (Anthony Mackie), após Steve Rogers (Chris Evans) o entregar em Vingadores: Ultimato. Durante a série, Sam aceita seu dever como o novo Capitão América ao lado de Bucky Barnes (Sebastian Stan). Admirável Mundo Novo compõe a Fase Cinco do Universo Cinematográfico Marvel (UCM).O enredo promete explorar os desafios e responsabilidades de Wilson em seu novo papel, enquanto enfrenta novas ameaças e aliados inesperados. A direção está a cargo de Julius Onah, conhecido por seu trabalho em The Cloverfield Paradox, e o roteiro foi escrito por Malcolm Spellman, que também foi o showrunner de Falcão e o Soldado Invernal.</C.Description>
+            <C.Tittle>{title}</C.Tittle>
+            <C.Description>{description}</C.Description>
 
-            <C.Button> ▶ Assistir</C.Button>
+            <C.Button onClick={handleOpenPlayVideo}> ▶ Assistir</C.Button>
 
         </C.Container>
     )
-}
+};
+
+DescriptionMovie.propTypes = {
+    handleOpenPlayVideo: PropTypes.node,
+    title: PropTypes.node,
+    description: PropTypes.node
+};

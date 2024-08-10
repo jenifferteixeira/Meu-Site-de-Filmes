@@ -7,3 +7,7 @@ background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 `;
+
+export const BackgroundGradient = styled.div`
+background: linear-gradient(to top, #111 60%, transparent 100%);
+`

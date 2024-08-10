@@ -5,11 +5,18 @@ width: 520px;
 padding: 50px 60px 20px;
 display: flex;
 flex-direction: column;
+
+@media (max-width:560px){
+width: 100%;
+padding: 20px;
+align-items: center;
+text-align: center;
+}
 `;
 
 export const Tittle = styled.h1`
 font-weight: 700;
-font-size: 40px;
+font-size: 38px;
 color: #FFF;
 `;
 
@@ -17,7 +24,7 @@ export const Description = styled.p`
 font-weight: 500;
 font-size: 16px;
 color: #FFF;
-opacity: 0.7;
+opacity: 0.9;
 `;
 
 export const Button = styled.button`

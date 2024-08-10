@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vime/core": "^5.4.1",
+    "@vime/react": "^5.4.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-multi-carousel": "^2.8.5",
     "styled-components": "^6.1.12"
   },
   "devDependencies": {
