@@ -9,7 +9,7 @@ export const Header = () => {
 
             <nav>
                 <a href="#movies"> Filmes</a>
-                <a href="#tvshows"> Séries</a>
+                <a href="#tvShows"> Séries </a>
             </nav>
         </Container>
     );

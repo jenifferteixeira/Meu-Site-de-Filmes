@@ -5,7 +5,7 @@ width: 100%;
 display: flex;
 align-items: center;
 justify-content: space-between;
-padding: 20px 60px;
+padding: 20px;
 
 @media (max-width:560px){
     padding: 20px;

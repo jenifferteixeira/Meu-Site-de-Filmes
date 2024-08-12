@@ -1,11 +1,13 @@
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
+import PropTypes from 'prop-types';
+
 
 
 import * as C from './style';
 
 
-export const Movies = (data, handleVideo) => {
+export const Movies = ({data, handleVideo}) => {
 
     const responsive = {
         desktop: {
@@ -45,4 +47,10 @@ export const Movies = (data, handleVideo) => {
             }
         </C.Container>
     );
+};
+
+Movies.propTypes = {
+    handleVideo: PropTypes.node,
+    data: PropTypes.node,
+    description: PropTypes.node
 };
