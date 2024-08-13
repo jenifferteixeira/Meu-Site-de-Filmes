@@ -8,7 +8,7 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma do [DevClub](https://aulas.devclub.com.br/m/home)
 
   
-<a href="#/"> 🤳🏻 Clique aqui para acessar o site</a>
+<a href="https://meusitedefilmes.netlify.app/"> 🤳🏻 Clique aqui para acessar o site</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -18,16 +18,18 @@
 
 ## ✨ Como foi feito ?
 
-- Projeto utilizando HTML, CSS, JavaScript, React;
-- Postado pelo site do Netlify.
+- Frontend: React.js para uma interface interativa e CSS Modules para estilização;
+- Backend: Node.js com Express para a API e MongoDB para o banco de dados;
+- Deploy: Netlify para hospedagem e GitHub Actions para CI/CD.
 
 
 ## 🚀 Resultado
 
-Em construção ⚒🛠.
+- Busca e Filtragem de Filmes: Permite aos usuários encontrar filmes com base em diferentes critérios;
+- Detalhes dos Filmes: Exibe informações detalhadas sobre cada filme.
 
 <p>
-    <img width="500" src="#">
+    <img width="500" src="https://github.com/jenifferteixeira/Meu-Site-de-Filmes/blob/main/src/assets/tela.JPG">
 </p>
   
 
