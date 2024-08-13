@@ -29,7 +29,7 @@ export const apiData = {
             description: "Joel é um homem mais velho, sobrevivente e cínico, afetado pelas mudanças no mundo em que vive. Ellie é uma jovem corajosa. Os dois se conectam pela dificuldade, enquanto tentam viajar pelos Estados Unidos até um lugar seguro. O novo teaser mostra uma passagem do tempo e revela Ellie já mais velha, com 19 anos.",
             imageSmall: "https://br.web.img3.acsta.net/r_1920_1080/pictures/22/11/30/19/53/5856320.jpg",
             imageBanner: "https://cdn2.tribunaonline.com.br/img/inline/190000/1200x720/The-Last-Of-Us-2-temporada-ganha-teaser-e-previsao0019361200202408051426-2.webp?fallback=https%3A%2F%2Fcdn2.tribunaonline.com.br%2Fimg%2Finline%2F190000%2FThe-Last-Of-Us-2-temporada-ganha-teaser-e-previsao0019361200202408051426.jpg%3Fxid%3D868103%26resize%3D1000%252C500%26t%3D1722878792&xid=868103",
-            linkVideo: "zLvUwLtJOt4",
+            linkVideo: "48WJNnNefvI",
             category: "tvShows",
         },
         {
@@ -41,23 +41,13 @@ export const apiData = {
             category: "movies",
         },
         {
-            title: "Adão Negro",
-            description:
-                "O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra.",
-            imageSmall:
-                "https://cineclick-static.flixmedia.cloud/480/ca0e1997-1886-49a8-a014-d801b229f229.webp",
-            imageBanner: "https://images8.alphacoders.com/127/thumb-1920-1274206.jpg",
-            linkVideo: "HluMG9tJXHM",
-            category: "movies",
-        },
-        {
             title: "A Mulher Rei",
             description:
                 "Em 1800, o general Nanisca treina um grupo de mulheres guerreiras para proteger o reino africano de Dahomey de um inimigo estrangeiro.",
             imageSmall:
                 "https://vertentesdocinema.com/wp-content/uploads/2022/09/amr-cartazteaser-online-1400x2100px-data.jpg",
             imageBanner: "https://images8.alphacoders.com/125/1253813.jpg",
-            linkVideo: "u1HTd_VVICQ",
+            linkVideo: "IK1sEiHodZg",
             category: "movies",
         },
         {
@@ -67,7 +57,7 @@ export const apiData = {
             imageSmall:
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCnYrsv9tcsON7HHzIfG_N_AvypmysosRXjSC4IBkqYbuOjfuiEJyRaGFFlfJipAJu0xg&usqp=CAU",
             imageBanner:
-                "https://midianinja.org/files/2022/09/naonaoolhepipocasclub.jpg",
+                "https://i.ytimg.com/vi/l05c7Z8aD0Q/maxresdefault.jpg",
             linkVideo: "l05c7Z8aD0Q",
             category: "movies",
         },
@@ -119,7 +109,7 @@ export const apiData = {
             imageSmall:
                 "https://br.web.img2.acsta.net/c_310_420/pictures/22/05/09/16/16/3197518.jpg",
             imageBanner:
-                "https://www.showmetech.com.br/wp-content/uploads//2022/12/Avatar-2-encanta-com-novas-imagens-reveladas-1280x720-1.webp",
+                "https://img.tribunahoje.com/1KOvNUWFZ3eOp_kN6j5-ftKvz-I=/840x520/smart/s3.tribunahoje.com/uploads/imagens/avatar.webp",
             linkVideo: "QxJQbWOIK4s",
             category: "movies",
         },
@@ -151,7 +141,7 @@ export const apiData = {
             imageSmall:
                 "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/98ea4207e23a2ea3e3af39ad641d8800.jpeg",
             imageBanner: "https://wallpapercave.com/wp/wp7234618.png",
-            linkVideo: "p0pGrdaejHk",
+            linkVideo: "giKGGDfT0DQ",
             category: "tvShows",
         },
         {
@@ -173,7 +163,7 @@ export const apiData = {
                 "https://s2.glbimg.com/YKv2ncmrfH68q-LaVkx93p1-lFE=/0x0:300x400/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/04/11/simpsons2.jpg",
             imageBanner:
                 "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/48478743BB7ADB3F0C4B5AF58E185BB295E9B849FAD0EB124676EB47F3889AB9/scale?width=1200&aspectRatio=1.78&format=jpeg",
-            linkVideo: "iNoczqfPhEM",
+            linkVideo: "0oGA0JsaC8Y",
             category: "tvShows",
         },
         {
@@ -195,7 +185,7 @@ export const apiData = {
                 "https://s2.glbimg.com/qYlGLjkTz7STsqtdUXe9Kg0d1Yw=/362x536/https://s2.glbimg.com/xe74Dgh6O9Grs3phBFUKLJ8c2r0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/2/a/sdBJPWSOedTfVzkzfWPg/2019-463-series-cbs-jul-everybody-hates-chris-poster.jpg",
             imageBanner:
                 "https://img.olhardigital.com.br/wp-content/uploads/2022/08/todo-mundo-odeia-o-chris.jpg",
-            linkVideo: "ENJpXh5Q9zM",
+            linkVideo: "mZEKZgb1b_U",
             category: "tvShows",
         },
         {
@@ -206,7 +196,7 @@ export const apiData = {
                 "https://images.justwatch.com/poster/244754219/s718/saint-seiya-knights-of-the-zodiac.%7Bformat%7D",
             imageBanner:
                 "https://sm.ign.com/t/ign_br/screenshot/default/os-cavaleiros-do-zodiaco-na-tv_ejjr.1280.jpg",
-            linkVideo: "gbflnX9pfW8",
+            linkVideo: "oa7sVeYkrKA",
             category: "tvShows",
         },
         {
@@ -216,7 +206,7 @@ export const apiData = {
             imageSmall:
                 "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/01ec367b44f0a568430a957e042639af.jpe",
             imageBanner: "https://img.ibxk.com.br/2021/10/05/05091942528062.jpg",
-            linkVideo: "ubWWAiVqa-w",
+            linkVideo: "GbDu-uUuxQY",
             category: "tvShows",
         },
         {
@@ -228,17 +218,6 @@ export const apiData = {
             imageBanner:
                 "https://recreio.uol.com.br/media/_versions/animacoes/bob_esponja_capa_widelg.jpg",
             linkVideo: "tr_Mv2yCFLw",
-            category: "tvShows",
-        },
-        {
-            title: "X-Men: Evolution",
-            description:
-                "Professor X reúne uma equipe de jovens mutantes sobre-humanos para salvar o mundo das forças do mal.",
-            imageSmall:
-                "https://pics.filmaffinity.com/x_men_evolution-683077638-large.jpg",
-            imageBanner:
-                "https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/7a2f858c-2a1f-11ed-aa6e-9587410378a2/x-men-evo.jpg",
-            linkVideo: "JhTEaoMJvX0",
             category: "tvShows",
         },
         {
