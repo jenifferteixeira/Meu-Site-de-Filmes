@@ -3,7 +3,7 @@ export const apiData = {
         {
             title: "Capitão America",
             description: "É o próximo filme da Marvel e dá continuidade à série “Falcão e o Soldado Invernal”. Sam Wilson (Anthony Mackie) assume o papel de Capitão América, sucedendo Steve Rogers, e enfrenta novos desafios e aliados inesperados. O filme faz parte da Fase Cinco do Universo Cinematográfico Marvel (UCM).",
-            imageSmall: "https://scontent.fpoa16-1.fna.fbcdn.net/v/t39.30808-6/364264308_334063985615751_2013922389647790604_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=eW7cVFpeGfQQ7kNvgHJcsNj&_nc_ht=scontent.fpoa16-1.fna&oh=00_AYAv2VF1uHYF2p1Aiii9ta7_EptbavSe9TU04oQMo3yJhg&oe=66BC468F",
+            imageSmall: "https://pin.it/2zsNz4Keh",
             imageBanner: "https://www.cinemascomics.com/wp-content/uploads/2023/11/Capitan-America-Brave-New-World.jpg",
             linkVideo: "AxkTbqfEOIY",
             category: "movies",
